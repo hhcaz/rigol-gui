@@ -1,6 +1,6 @@
-numba==0.56.0
-scipy==1.7.1
+numpy
+numba
+scipy
+PyQt5==5.15.9
 PyVISA==1.11.0
 pyqtgraph==0.12.3
-numpy==1.21.2
-PyQt5==5.15.9
